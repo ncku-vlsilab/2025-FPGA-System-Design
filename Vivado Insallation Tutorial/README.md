@@ -7,7 +7,7 @@ Vivado Installation Tutorial
 
 ![Create an Account](images/account_.png)
 
-2. 前往[這裡](https://www.xilinx.com/support/download.html)，下載 **Vivado 2023.2**
+2. 前往[這裡](https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/vivado-design-tools/2023-2.html)，下載 **Vivado 2023.2**
 
   **註：請安裝在使用者名稱為 "英文" 的電腦**
 
