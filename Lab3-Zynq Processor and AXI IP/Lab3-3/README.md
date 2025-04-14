@@ -21,7 +21,7 @@
 
 創建完後加入`src/hdl/adder.v`，並修改產生的 HDL code。
 
->下面這些步驟主要是在連接 AXI Interface Register 和我們建立的 IP 的 I/O。 [AXI 總線簡介](https://hackmd.io/@Ji0m0/S1aoQO-yt)
+>下面這些步驟主要是在連接 AXI Interface Register 和我們建立的 IP 的 I/O。 [AXI 總線簡介](https://kknews.cc/zh-tw/code/gxaooq9.html)
 
 ![](images/add_ports_24.jpg)
 
