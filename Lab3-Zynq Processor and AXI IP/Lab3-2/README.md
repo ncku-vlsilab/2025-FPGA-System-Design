@@ -69,4 +69,4 @@ Tools > Launch Vitis IDE
 ## References
  1. [Embedded System](https://zh.wikipedia.org/wiki/%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F)
  2. [Embedded System C Program](http://stenlyho.blogspot.com/2007/04/c_03.html)
- 3. [AXI BUS](https://hackmd.io/@Ji0m0/S1aoQO-yt)
+ 3. [AXI BUS](https://kknews.cc/zh-tw/code/gxaooq9.html)
