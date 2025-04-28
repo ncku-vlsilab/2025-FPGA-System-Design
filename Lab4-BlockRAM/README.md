@@ -28,3 +28,4 @@ Block RAM can be configured as :
 # Reference
 
 [7 Series FPGAs Memory Resources User Guide](https://www.xilinx.com/support/documentation/user_guides/ug473_7Series_Memory_Resources.pdf)
+[Youtube - BRAM Introduction](https://www.youtube.com/watch?v=fqUuvwl4QJA)
